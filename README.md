@@ -5,8 +5,8 @@ pi@rpi4bp:~ sudo nano mywebserver.py
 pi@rpi4bp:~ $ sudo python3 mywebserver.py 
  * Serving Flask app "mywebserver" (lazy loading)
  * Environment: production
-   WARNING: Do not use the development server in a production environment.
-   Use a production WSGI server instead.
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
  * Debug mode: on
  * Running on http://0.0.0.0:80/ (Press CTRL+C to quit)
  * Restarting with stat
