@@ -12,6 +12,9 @@ pi@rpi4bp:~ $ sudo python3 mywebserver.py
  * Restarting with stat
  * Debugger is active!
  * Debugger PIN: 159-169-173
+
 192.168.254.23 - - [04/Mar/2021 10:28:38] "GET / HTTP/1.1" 200 -
+
 192.168.254.23 - - [04/Mar/2021 10:28:44] "GET / HTTP/1.1" 200 -
+
 192.168.254.23 - - [04/Mar/2021 10:28:45] "GET / HTTP/1.1" 200 -
